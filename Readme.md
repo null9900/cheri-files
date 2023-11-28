@@ -21,7 +21,11 @@ Steps to start the study for task 1:
 
 `compile.sh` and `file_read_write.c` are available on this GitHub repo.
 Merge requests are available here:
+
 MR1: https://github.com/null9900/cheri-code-diffs/commit/75746363256ffb45c6b8db81dfc7d996c5241f9b?diff=unified
+
 MR2: https://github.com/null9900/cheri-code-diffs/commit/78a7dc78f735cb6e52ddef11613097a565751f4a
+
 MR3: https://github.com/null9900/cheri-code-diffs/commit/56930ec91b2c30816b81599fb757f2049ad146e9
+
 MR4: https://github.com/null9900/cheri-code-diffs/commit/f0dbb7c22fcdc313c38b2ba0c795a36dc2fe22bb
